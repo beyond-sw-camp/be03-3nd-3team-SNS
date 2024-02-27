@@ -1,6 +1,6 @@
 # 🎁 포장의 민족
 <p align="center">
-  <img src= "https://github.com/Team-SNS/Pojang-BE/assets/78871184/ef7c6f3e-446d-47e8-a4e3-e19b9cd8d6b2" width="100%" height="100%">
+  <img src= "https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/img/banner.png?raw=true" width="100%" height="100%">
 </p> 
 <br/>
 
@@ -47,7 +47,7 @@
 
 # 🚩 Git 브랜치 전략
 <p align="center">
-  <img src= "https://github.com/Team-SNS/Pojang-BE/assets/78871184/b8a464a8-61ce-4bca-8082-be0affd5a342" width="100%" height="100%">
+  <img src= "https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/img/branch_strategy.png?raw=true" width="100%" height="100%">
 </p> 
 
 - 저장소를 효과적으로 활용하기 위해 SNS팀은 Github-Flow 전략 브랜치를 생성한다.
@@ -254,12 +254,12 @@
 <div markdown="1">
 <p align="center">
   <h4>회원가입</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/ed03c100-6cbd-4e9a-80cf-3eb9871ae9e1">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif?raw=true">
 </p>
 
 <p align="center">
   <h4>로그인</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/e42aa5f7-8e7f-4935-9be8-b771e4326c75">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true">
 </p>
 
   
@@ -272,12 +272,12 @@
 
 <p align="center">
   <h4>검색 및 찜</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/8936c5c4-06b9-4516-88d6-5c2c77c721e7">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EA%B2%80%EC%83%89,%20%EC%B0%9C.gif?raw=true">
 </p>
 
 <p align="center">
   <h4>매장 등록</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/12092707-bb52-4497-be59-20fb10728c5d">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EB%A7%A4%EC%9E%A5%EB%93%B1%EB%A1%9D.gif?raw=true">
 </p>
 
 </div>
@@ -289,7 +289,7 @@
 
 <p align="center">
   <h4>주문등록</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/4d4109bd-1539-44b6-b6ad-da6224f30124">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EB%A7%A4%EC%9E%A5%EB%93%B1%EB%A1%9D.gif?raw=true">
 </p>
 
 <p align="center">
@@ -299,7 +299,7 @@
 
 <p align="center">
   <h4>리뷰조회</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/2faf019a-4993-43b2-b68f-f2093ce83e8b">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EB%A6%AC%EB%B7%B0%20%EC%A1%B0%ED%9A%8C.gif?raw=true">
 </p>
 
 
@@ -312,7 +312,7 @@
 
 <p align="center">
   <h4>장바구니 등록 및 비우기</h4>
-  <img src="https://github.com/Team-SNS/Pojang-FE/assets/112849147/f9a44172-f8f7-408a-9858-a4db2816e40b">
+  <img src="https://github.com/beyond-sw-camp/be03-3nd-3team-SNS/blob/main/gif/%EB%A6%AC%EB%B7%B0%20%EC%A1%B0%ED%9A%8C.gif?raw=true">
 </p>
 
 
